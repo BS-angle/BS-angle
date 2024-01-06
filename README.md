@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BS-angle
+- 👋 Hi, I’m @BS-angle , I'm a beginner programmer
 - 👀 I’m interested in programming in general
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on one projet
+- 🌱 I’m currently learning c,c++ and the c#
+- 💞️ I’m looking to collaborate on one projet 
 - 📫 you can reach me at the following address: Bsinformatique.gmail.com
 
 <!---
